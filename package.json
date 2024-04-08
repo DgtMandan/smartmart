@@ -27,6 +27,7 @@
     "mongoose": "^6.9.3",
     "nodemailer": "^6.9.1",
     "nodemon": "^2.0.20",
+    "npm": "^10.5.1",
     "react-rating-stars-component": "^2.2.0",
     "redux-devtools": "^3.7.0",
     "stripe": "^14.5.0",
